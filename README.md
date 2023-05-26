@@ -1,92 +1,122 @@
-# Frontend Mentor - NFT preview card component
+# Frontend Mentor - NFT preview card component solution
 
-![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Welcome! 👋
+## Table of contents
 
-Thanks for checking out this front-end coding challenge.
+-   [Overview](#overview)
+    -   [The challenge](#the-challenge)
+    -   [Screenshot](#screenshot)
+    -   [Links](#links)
+-   [My process](#my-process)
+    -   [Built with](#built-with)
+    -   [What I learned](#what-i-learned)
+    -   [Continued development](#continued-development)
+    -   [Useful resources](#useful-resources)
+-   [Author](#author)
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+## Overview
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+In the NFT Preview Card Component challenge by Frontend Mentor, the task was to create a responsive and visually appealing preview card for an NFT artwork. The challenge required designing and coding a card that showcased the artwork along with relevant information like title, description, price, and creator details.
 
-## The challenge
+I successfully completed the challenge by enhancing the provided HTML structure with CSS styling. I focused on details such as hover effects, typography, color scheme, and alignment to create a polished and professional-looking card. Additionally, I ensured that the card was responsive, adapting well to different screen sizes and orientations.
 
-Your challenge is to build out this preview card component and get it looking as close to the design as possible.
+I utilized various CSS properties, selectors, and techniques to achieve the desired visual appearance and maintained a clean and organized code structure. I also paid attention to accessibility by providing alternative text for images.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+I thoroughly enjoyed working on this challenge and honing my CSS skills while creating an engaging NFT preview card. I'm excited to showcase my completed solution and demonstrate my creativity and problem-solving abilities.
 
-Your users should be able to:
+### The challenge
 
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
+Users should be able to:
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
+-   View the optimal layout depending on their device's screen size
+-   See hover states for interactive elements
 
-## Where to find everything
+### Screenshot
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+![](./nft-challenge-screenshot.png)
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
+### Links
 
-If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
+-   Solution URL: [Add solution URL here](https://your-solution-url.com)
+-   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-You will find all the required assets in the `/images` folder. The assets are already optimized.
+## My process
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+During the development of the NFT preview card component, I followed a systematic and iterative process to ensure a smooth and efficient workflow. Here's a summary of the steps I took:
 
-## Building your project
+1. Understanding the Requirements: I carefully reviewed the challenge requirements and specifications to gain a clear understanding of what was expected. I paid attention to the layout, design elements, and functionality required for the NFT preview card.
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+2. Planning and Wireframing: Before diving into the code, I spent some time planning the overall structure and layout of the card. I created a wireframe or sketched a rough representation to visualize the component's design and elements.
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/).
-2. Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, and we provide some recommendations below.
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+3. HTML Structure: Based on the wireframe, I created the HTML structure for the NFT preview card. I ensured that the markup was semantically meaningful and properly organized, using appropriate HTML elements and attributes.
 
-## Deploying your project
+4. Styling with CSS: Using CSS, I applied styles to the HTML elements to achieve the desired visual appearance. I focused on typography, colors, spacing, and alignment to create an aesthetically pleasing and responsive design. I made use of CSS techniques such as flexbox, grid, and transitions to enhance the layout and interactivity of the card.
 
-As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
+5. Testing and Refinement: Throughout the development process, I regularly tested the component on different devices and browsers to ensure a consistent and responsive experience. I made necessary adjustments and refinements based on the test results, addressing any issues related to layout, responsiveness, or functionality.
 
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
+6. Optimization and Performance: I optimized the code for performance by minimizing file sizes, optimizing images, and using appropriate techniques such as lazy loading. I also ensured that the component followed best practices for web accessibility, including proper use of alt text for images and semantic HTML.
 
-You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
+7. Documentation: As I progressed, I maintained clear and concise documentation of my code, making it easy to understand and navigate for future reference. I added comments where necessary to explain complex or important parts of the code.
 
-## Create a custom `README.md`
+By following this process, I was able to create a well-structured, visually appealing, and responsive NFT preview card component that meets the challenge requirements. I'm proud of the result and look forward to showcasing my work.
 
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
+### Built with
 
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
+-   Semantic HTML5 markup
+-   CSS custom properties
+-   Flexbox
+-   Mobile-first workflow
 
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
+### What I learned
 
-## Submitting your solution
+During the development of the NFT preview card component, I gained valuable insights and learned the following key concepts:
 
-Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) for tips on how to do this.
+1. CSS pseudo-elements: I utilized the ::before pseudo-element to create an overlay effect on the figure element, resulting in a visually appealing hover effect.
 
-Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
+2. Positioning and overlapping: I used position: absolute to precisely position elements and overlay a colored layer on top of the figure element when hovered.
 
-## Sharing your solution
+3. Creating overlay effects: By adjusting properties such as width, height, border-radius, and opacity, I achieved a desirable overlay effect on the figure element.
 
-There are multiple places you can share your solution:
+4. Transitions and hover effects: I applied CSS transitions to smoothly animate the hover effect, resulting in a subtle and visually pleasing transition.
 
-1. Share your solution page in the **#finished-projects** channel of the [Slack community](https://www.frontendmentor.io/slack). 
-2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
-3. Share your solution on other social channels like LinkedIn.
-4. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
+These concepts enhanced the interactivity and visual appeal of the NFT preview card component and expanded my CSS skills for future projects.
 
-We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
+```css
+figure:hover::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 99%;
+    border-radius: 10px;
+    background-color: hsl(178, 100%, 50%);
+    opacity: 0.6;
+}
+```
 
-The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
+### Continued development
 
-## Got feedback for us?
+In the future, I plan to focus on the following areas to further enhance the NFT preview card component:
 
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
+1. Refining Responsive Design: I aim to fine-tune the card's responsiveness across various screen sizes and resolutions for a seamless user experience.
 
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
+2. Improving Accessibility: I will work on enhancing accessibility features to ensure the component is more inclusive and user-friendly, including keyboard navigation and screen reader compatibility.
 
-**Have fun building!** 🚀
+3. Browser Compatibility: I intend to conduct further testing to ensure consistent performance across different browsers and address any compatibility issues that may arise.
+
+4. Code Optimization: I will review and refactor the codebase to improve efficiency, readability, and maintainability, eliminating any unused styles and optimizing CSS selectors.
+
+5. Adding Interactivity: I plan to incorporate more interactive elements, animations, and social sharing options to increase user engagement with the NFT preview card.
+
+### Useful resources
+
+-   [Google Fonts](https://fonts.google.com/specimen/Outfit) -I utilized Google Fonts to access and integrate the "Outfit" font family into the project. Google Fonts offers a wide selection of fonts that can enhance the visual appeal of web designs.
+-   [Frontend Mentor](https://www.frontendmentor.io/) - The challenge prompt and design files provided by Frontend Mentor served as the foundation for this project. They provided a clear direction and helped me understand the requirements.
+
+## Author
+
+-   Website - [Omoma Ighawosa](https://ig-matrix.github.io/Lesson_3_Task_6_Omoma_Ighawosa/)
+-   Frontend Mentor - [@Ig-Matrix](https://www.frontendmentor.io/profile/Ig-Matrix)
+-   Twitter - [@I_am_ig_matrix](https://twitter.com/i_am_Ig_matrix)
