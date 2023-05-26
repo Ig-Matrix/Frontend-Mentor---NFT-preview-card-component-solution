@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Link to Github Repository](https://github.com/Ig-Matrix/Frontend-Mentor---NFT-preview-card-component-solution)
+-   Live Site URL: [Link to live site](https://ig-matrix.github.io/Frontend-Mentor---NFT-preview-card-component-solution/)
 
 ## My process
 
