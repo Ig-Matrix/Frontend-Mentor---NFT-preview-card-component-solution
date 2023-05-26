@@ -73,7 +73,6 @@ h2 {
     cursor: pointer;
 }
 
-
 h2:hover {
     color: hsl(178, 100%, 50%);
 }

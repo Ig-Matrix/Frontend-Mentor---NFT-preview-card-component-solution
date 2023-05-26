@@ -1,22 +1,22 @@
 # Frontend Mentor - NFT preview card component solution
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-
+-   [Overview](#overview)
+    -   [The challenge](#the-challenge)
+    -   [Screenshot](#screenshot)
+    -   [Links](#links)
+-   [My process](#my-process)
+    -   [Built with](#built-with)
+    -   [What I learned](#what-i-learned)
+    -   [Continued development](#continued-development)
+    -   [Useful resources](#useful-resources)
+-   [Author](#author)
 
 ## Overview
+
 In the NFT Preview Card Component challenge by Frontend Mentor, the task was to create a responsive and visually appealing preview card for an NFT artwork. The challenge required designing and coding a card that showcased the artwork along with relevant information like title, description, price, and creator details.
 
 I successfully completed the challenge by enhancing the provided HTML structure with CSS styling. I focused on details such as hover effects, typography, color scheme, and alignment to create a polished and professional-looking card. Additionally, I ensured that the card was responsive, adapting well to different screen sizes and orientations.
@@ -24,12 +24,13 @@ I successfully completed the challenge by enhancing the provided HTML structure 
 I utilized various CSS properties, selectors, and techniques to achieve the desired visual appearance and maintained a clean and organized code structure. I also paid attention to accessibility by providing alternative text for images.
 
 I thoroughly enjoyed working on this challenge and honing my CSS skills while creating an engaging NFT preview card. I'm excited to showcase my completed solution and demonstrate my creativity and problem-solving abilities.
+
 ### The challenge
 
 Users should be able to:
 
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
+-   View the optimal layout depending on their device's screen size
+-   See hover states for interactive elements
 
 ### Screenshot
 
@@ -37,10 +38,11 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Add solution URL here](https://your-solution-url.com)
+-   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+
 During the development of the NFT preview card component, I followed a systematic and iterative process to ensure a smooth and efficient workflow. Here's a summary of the steps I took:
 
 1. Understanding the Requirements: I carefully reviewed the challenge requirements and specifications to gain a clear understanding of what was expected. I paid attention to the layout, design elements, and functionality required for the NFT preview card.
@@ -59,15 +61,15 @@ During the development of the NFT preview card component, I followed a systemati
 
 By following this process, I was able to create a well-structured, visually appealing, and responsive NFT preview card component that meets the challenge requirements. I'm proud of the result and look forward to showcasing my work.
 
-
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
+-   Semantic HTML5 markup
+-   CSS custom properties
+-   Flexbox
+-   Mobile-first workflow
 
 ### What I learned
+
 During the development of the NFT preview card component, I gained valuable insights and learned the following key concepts:
 
 1. CSS pseudo-elements: I utilized the ::before pseudo-element to create an overlay effect on the figure element, resulting in a visually appealing hover effect.
@@ -79,6 +81,7 @@ During the development of the NFT preview card component, I gained valuable insi
 4. Transitions and hover effects: I applied CSS transitions to smoothly animate the hover effect, resulting in a subtle and visually pleasing transition.
 
 These concepts enhanced the interactivity and visual appeal of the NFT preview card component and expanded my CSS skills for future projects.
+
 ```css
 figure:hover::before {
     content: "";
@@ -94,6 +97,7 @@ figure:hover::before {
 ```
 
 ### Continued development
+
 In the future, I plan to focus on the following areas to further enhance the NFT preview card component:
 
 1. Refining Responsive Design: I aim to fine-tune the card's responsiveness across various screen sizes and resolutions for a seamless user experience.
@@ -105,12 +109,14 @@ In the future, I plan to focus on the following areas to further enhance the NFT
 4. Code Optimization: I will review and refactor the codebase to improve efficiency, readability, and maintainability, eliminating any unused styles and optimizing CSS selectors.
 
 5. Adding Interactivity: I plan to incorporate more interactive elements, animations, and social sharing options to increase user engagement with the NFT preview card.
+
 ### Useful resources
 
-- [Google Fonts](https://fonts.google.com/specimen/Outfit) -I utilized Google Fonts to access and integrate the "Outfit" font family into the project. Google Fonts offers a wide selection of fonts that can enhance the visual appeal of web designs.
-- [Frontend Mentor](https://www.frontendmentor.io/) - The challenge prompt and design files provided by Frontend Mentor served as the foundation for this project. They provided a clear direction and helped me understand the requirements.
+-   [Google Fonts](https://fonts.google.com/specimen/Outfit) -I utilized Google Fonts to access and integrate the "Outfit" font family into the project. Google Fonts offers a wide selection of fonts that can enhance the visual appeal of web designs.
+-   [Frontend Mentor](https://www.frontendmentor.io/) - The challenge prompt and design files provided by Frontend Mentor served as the foundation for this project. They provided a clear direction and helped me understand the requirements.
 
 ## Author
+
 -   Website - [Omoma Ighawosa](https://ig-matrix.github.io/Lesson_3_Task_6_Omoma_Ighawosa/)
 -   Frontend Mentor - [@Ig-Matrix](https://www.frontendmentor.io/profile/Ig-Matrix)
 -   Twitter - [@I_am_ig_matrix](https://twitter.com/i_am_Ig_matrix)
